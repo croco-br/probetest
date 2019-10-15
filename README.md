@@ -12,7 +12,7 @@ Para executá-lo basta chamar o executável com o comando abaixo, passando um ca
 Ex:
 dotnet ExploringMars.dll "C:\input.txt"
 
-Exemplo de input:
+Exemplo de input: <br/>
 5 5 <br/>
 1 2 N <br/>
 LMLMLMLMM <br/>
@@ -20,6 +20,6 @@ LMLMLMLMM <br/>
 MMRMMRMRRM <br/>
 
 
-Retorno esperado:
+Retorno esperado:<br/>
 1 3 N <br/>
-5 1 E 
+5 1 E <br/>
