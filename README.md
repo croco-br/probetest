@@ -1,5 +1,4 @@
 # probetest
-Cargox Coding Challenge
 
 Esse projeto foi desenvolvido em .NET Core 3.0.
 
